@@ -1,0 +1,444 @@
+List: 2
+Reverse: False
+Engine: text-davinci-003
+Temperature 0.93
+Liz went to a supermarket with Matt. She bought some bread.
+Question1: What did Liz buy?
+(A)Milk
+(B)Bread
+Answer: (B)Bread
+Question2: What did they do?
+(A)Took a shower
+(B)Went to the supermarket
+Answer: (B)Went
+
+Matt took pictures with Ana. He used the camera first.
+Question1: What did they do?
+(A)Choreograph a dance
+(B)Took pictures
+Answer: (B)Took
+Question2: What did Matt use?
+(A)camera
+(B)vending machine
+Answer: (A)Camera
+
+Liz planned to go to a concert with Matt. She bought the tickets.
+Question1: What did they do?
+(A)Bake cookies
+(B)Planned to go to a concert
+Answer: (B)Planned
+Question2: Did Matt buy the tickets?
+(A)No
+(B)Yes
+Answer: (A)No
+
+Will got ready for school with Liz. He grabbed a jacket.
+Question1: What did they do?
+(A)Got ready for school
+(B)Performed in a play
+Answer: (A)Got ready
+Question2: What did Will grab?
+(A)scarf
+(B)jacket
+Answer: (B)Jacket
+
+Will had a drink with Ana. He ordered some wine.
+Question1: What did they do?
+(A)Have an argument
+(B)Got drinks
+Answer: (B) Got drinks
+Question2: What did Will order?
+(A)Wine
+(B)Pie
+Answer: (A)Wine
+
+Ana played music with Will. She played the piano.
+Question1: What did they do?
+(A)play music
+(B)Went swimming
+Answer: (A)Play music
+Question2: What did Ana play?
+(A)piano
+(B)guitar
+Answer: (A)Piano
+
+Liz went to the library with Matt. She borrowed a comic book.
+Question1: What did they do?
+(A)Went to the pool
+(B)Went to the library
+Answer: (B) Went to
+Question2: What did Liz borrow?
+(A)video tape
+(B)comic book
+Answer: (B)Comic
+
+Ana prepared a presentation with Matt. She controlled the computer.
+Question1: What did Ana control?
+(A)microwave
+(B)computer
+Answer: (B)Computer
+Question2: What did they do?
+(A)prepared a presentation
+(B)Got ready for school
+Answer: (A)Prepared
+
+Matt made some art with Ana. He used the scissors.
+Question1: What did Matt use?
+(A)The scissors
+(B)The radio
+Answer: (A)The Sc
+Question2: What did they do?
+(A)Went to the doctor
+(B)Made some art
+Answer: (B)Made some
+
+Ana played cards with Matt. She used the Ace of Spades to win.
+Question1: What did Ana use?
+(A)Ace of Spades
+(B)dice
+Answer: (A)Ace
+Question2: What did they do?
+(A)Went to the mall
+(B)Played cards
+Answer: (B)Played
+
+Will went outside with Liz. He wore a hat.
+Question1: What did they do?
+(A)Went outside
+(B)Take a nap
+Answer: (A)Went
+Question2: Did Liz wear the hat?
+(A)No
+(B)Yes
+Answer: (A)No
+
+Will watched a soccer game with Liz. He used the binoculars.
+Question1: What did they do?
+(A)Watch a basketball game
+(B)Watch a soccor game
+Answer: (B)Watch a
+Question2: Did Will use the binoculars?
+(A)No
+(B)Yes
+Answer: (B)Yes
+
+Ana went fishing with Will. She borrowed a fishing rod.
+Question1: What did they do?
+(A)went fishing
+(B)Baked a cake
+Answer: (A)Went
+Question2: Did Ana borrow the fishing rod?
+(A)No
+(B)Yes
+Answer: (B)Yes
+
+Liz got ready for a party with Will. She blew up more balloons.
+Question1: What did they do?
+(A)Got ready for a party
+(B)Write a paper
+Answer: (A)Got ready
+Question2: What did Liz blow ?
+(A)Bubble gum
+(B)Balloons
+Answer: (B)Balloons
+
+Matt played video games with Ana. He held the controller.
+Question1: What did they do?
+(A)Run a marathon
+(B)Played video games
+Answer: (B)Played
+Question2: Did Ana hold the controller?
+(A)No
+(B)Yes
+Answer: (A)No
+
+Will played basketball with Liz. He wore the blue shorts.
+Question1: Did Will wear the blue shorts?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Played basketball
+(B)Ordered pizza
+Answer: (A)Played
+
+Matt went to McDonalds with Ana. He ordered a Big Mac.
+Question1: What did Matt order?
+(A)A salad
+(B)A Big Mac
+Answer: (B)A Big
+Question2: What did they do?
+(A)Went to the movies
+(B)Went to McDonald's
+Answer: (B)Went
+
+Matt rode a bicycle with Ana. He wore a helmet.
+Question1: Did Matt wear a helmet?
+(A)No
+(B)Yes
+Answer: (B)Yes
+Question2: What did they do?
+(A)Went skiing
+(B)Ride bikes
+Answer: (B)Ride
+
+Ana painted the house with Will. She borrowed the red paint.
+Question1: What did they do?
+(A)painted the house
+(B)Take dance lessons
+Answer: (A)Painted
+Question2: Did Ana borrow the red paint?
+(A)No
+(B)Yes
+Answer: (B)Yes
+
+Liz ate french fries with Matt. She asked for some ketchup.
+Question1: Did Matt ask for ketchup?
+(A)No
+(B)Yes
+Answer: (A)No
+Question2: What did they do?
+(A)Walked the dog
+(B)Ate french fries
+Answer: (B)Ate
+
+Will went to the bookstore with Matt. He bought the new book on sailing.
+Question1: Did Will buy the book on sailing?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Watch netflix
+(B)Went to the bookstore
+Answer: (B) Went to
+
+Will had a snack with Matt. He ate some potato chips.
+Question1: Did Matt eat the potato chips?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: what did they do?
+(A)Had a snack
+(B)Planted flowers
+Answer: (A)Had a
+
+Matt decorated the house with Ana. He lit a candle.
+Question1: What did Matt light?
+(A)A candle
+(B)The stove
+Answer: (A)A Candle
+Question2: What did they do?
+(A)Wash the dog
+(B)Decorated the house
+Answer: (B)Decor
+
+Matt read with Will. He read the book on aliens.
+Question1: Did Matt read the book?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: what did they do?
+(A)read
+(B)Baked cookies
+Answer: (A)Read
+
+Liz assembled a bed with Ana. She needed the hammer.
+Question1: Did Ana need the hammer?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Went shopping
+(B)assembled a bed
+Answer: (B)Assemb
+
+Matt went to dinner with Liz. He ordered some spaghetti.
+Question1: Did Matt order spaghetti?
+(A)No
+(B)Yes
+Answer: (B)Yes
+Question2: What did they do?
+(A)Go to dinner
+(B)Read a novel
+Answer: (A)Go to
+
+Ana planned a trip with Matt. She wanted to go by train.
+Question1: What did Ana want?
+(A)To take the train
+(B)To get ice cream
+Answer: (A)To take
+Question2: What did they do?
+(A)Planned a trip
+(B)Join a gym
+Answer: (A)Planned
+
+Ana cleaned up with Liz. She swept the floor with the broom.
+Question1: Did Liz sweep the floor?
+(A)Yes
+(B)No
+Answer: (B)No
+Question2: What did they do?
+(A)Cleaned up
+(B)order take out
+Answer: (A)Cleaned
+
+Liz had some milk with Matt. She drank from the blue glass.
+Question1: What did they do?
+(A)Had some milk
+(B)Had some orange juice
+Answer: (A)Had some
+Question2: Did Liz drink from the blue glass?
+(A)Yes
+(B)No
+Answer: (A)Yes
+
+Ana went to a wedding with Will. She brought some flowers.
+Question1: What did they do?
+(A)Went for a run
+(B)Went to a wedding
+Answer: (B)Went
+Question2: What did Ana bring?
+(A)flowers
+(B)Wine
+Answer: (A)Flowers
+
+Will made dinner with Matt. He needed the salt.
+Question1: Did Will need the salt?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Make dinner
+(B)Wash the car
+Answer: (A)Make
+
+Will hiked with Liz. He looked at the map.
+Question1: Did Liz look at the map?
+(A)Yes
+(B)No
+Answer: (B)No
+Question2: What did they do?
+(A)Went hiking
+(B)Went dancing
+Answer: (A)Went
+
+Matt went to the library with Will. He read the book on world history.
+Question1: Did Will read the book on world history?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Went to the library
+(B)Purchase a car
+Answer: (A)Went
+
+Ana went to the zoo with Will. She saw a panda.
+Question1: What did they do?
+(A)ride a bike
+(B)Went to the zoo
+Answer: (B)Went
+Question2: What did Ana see?
+(A)Monkeys
+(B)Panda
+Answer: (B)Panda
+
+Ana played a board game with Liz. She rolled the dice.
+Question1: Did Ana roll the dice?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Listen to music
+(B)Played a board game
+Answer: (B)Played
+
+Matt put together a puzzle with Ana. He looked for the purple piece.
+Question1: Did Ana look for the purple puzzle piece?
+(A)No
+(B)Yes
+Answer: (A)No
+Question2: What did they do?
+(A)play monopoly
+(B)put together a puzzle
+Answer: (B)Put together
+
+Liz hung a picture with Matt. She hammered some nails.
+Question1: What did they do?
+(A)Hung pictures
+(B)Make the bed
+Answer: (A)Hung
+Question2: Did Matt hammer some nails?
+(A)No
+(B)Yes
+Answer: (B)Yes
+
+Liz painted the wall with Ana. She used the green paint.
+Question1: Did Ana use the green paint?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Told jokes
+(B)Painted the wall
+Answer: (B)Painted
+
+Will watched TV with Liz. He grabbed the remote control.
+Question1: Did Liz grab the remote control?
+(A)Yes
+(B)No
+Answer: (B)No
+Question2: What did they do?
+(A)Watched TV
+(B)Played a board game
+Answer: (A)Watched
+
+Ana had coffee with Liz. She ordered a Cappuccino.
+Question1: Did Liz order the cappuccino?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: what did they do?
+(A)get ready to go shopping
+(B)had coffee
+Answer: (B)Had
+
+Matt is having dinner with Will. He wanted some chicken.
+Question1: Did Matt want some chicken?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Paid for an arcade game
+(B)had dinner
+Answer: (B)Had
+
+Will went running with Ana. He needed some water.
+Question1: Did Will need water?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Went running
+(B)Went to see a play
+Answer: (A)Went
+
+Liz went shopping with Will. She bought a sweater.
+Question1: What did Liz buy?
+(A)A pair of jeans
+(B)A sweater
+Answer: (B)A Swe
+Question2: What did they do?
+(A)Went shopping
+(B)Went ice skating
+Answer: (A)Went
+
+Liz planted flowers with Ana. She watered the seeds.
+Question1: Did Liz water the seeds?
+(A)Yes
+(B)No
+Answer: (A)Yes
+Question2: What did they do?
+(A)Planted flowers
+(B)climb a mountain
+Answer: (A)Planted
+

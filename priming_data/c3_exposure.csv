@@ -1,0 +1,65 @@
+Type filler,item,Stimulus,Stimtype,Q1,answer1,answer2,Q2,answer3,answer4
+Object_exposure,F01,I played music with you. You played the piano.,Filler,What did we do,play music,Went swimming,What did you play,piano,guitar
+Object_exposure,F02,I went fishing with you. You borrowed a fishing rod.,Filler,What did we do,went fishing,Baked a cake,Did I borrow the fishing rod,Yes,No
+Object_exposure,F03,I prepared a presentation with you. You controlled the computer.,Filler,What did you control,microwave,computer,What did we do,prepared a presentation,Got ready for school
+Object_exposure,F04,I planned a trip with you. You wanted to go by train.,Filler,What did you want,To take the train,To get ice cream,What did we do,Planned a trip,Join a gym
+Object_exposure,F05,I went to the zoo with you. You saw a panda.,Filler,What did we do,ride a bike,Went to the zoo,What did you see,Monkeys,Panda
+Object_exposure,F06,I played cards with you. You used the Ace of Spades to win.,Filler,What did you use,Ace of Spades,dice,What did we do,Went to the mall,Played cards
+Object_exposure,F07,I painted the house with you. You borrowed the red paint.,Filler,What did we do,painted the house,Took dance lessons,Did I borrow the red paint,Yes,No
+Object_exposure,F08,I went to a wedding with you. You brought some flowers.,Filler,What did we do,Went for a run,Went to a wedding,What did you bring,flowers,Wine
+Object_exposure,F09,I played basketball with you. You wore the blue shorts.,Filler,Did I wear the blue shorts,Yes,No,What did we do,Played basketball,Ordered pizza
+Object_exposure,F10,I got ready for school with you. You grabbed a jacket.,Filler,What did we do,Got ready for school,Performed in a play,What did you grab,scarf,jacket
+Object_exposure,F11,I watched a soccer game with you. You used the binoculars.,Filler,What did we do,Watch a basketball game,Watch a soccor game,Did I use the binoculars,Yes,No
+Object_exposure,F12,I watched TV with you. You grabbed the remote control.,Filler,Did you grab the remote control,Yes,No,What did we do,Watched TV,Played a board game
+Object_exposure,F13,I hiked with you. You looked at the map.,Filler,Did you look at the map,Yes,No,What did we do,Went hiking,Went dancing
+Object_exposure,F14,I went outside with you. You wore a hat.,Filler,What did we do,Went outside,Take a nap,Did you wear the hat,Yes,No
+Object_exposure,F15,I had a drink with you. You ordered some wine.,Filler,What did we do,Have an argument,Got drinks,What did you order,Wine,Pie
+Object_exposure,F16,I went running with you. You needed some water.,Filler,Did I need water,Yes,No,What did we do,Went running,Went to see a play
+Object_exposure,F17,I went to a supermarket with you. You bought some bread.,Filler,What did you buy,Milk,Bread,What did we do,Took a shower,Went to the supermarket
+Object_exposure,F18,I ate french fries with you. You asked for some ketchup.,Filler,Did you ask for ketchup,Yes,No,What did we do,Walked the dog,Ate french fries
+Object_exposure,F19,I went to the library with you. You borrowed a comic book.,Filler,What did we do,Went to the pool,Went to the library,What did you borrow,video tape,comic book
+Object_exposure,F20,I hung a picture with you. You hammered some nails.,Filler,What did we do,Hung pictures,Make the bed,Did you hammer some nails,Yes,No
+Object_exposure,F21,I went shopping with you. You bought a sweater.,Filler,What did you buy,A pair of jeans,A sweater,What did we do,Went shopping,Went ice skating
+Object_exposure,F22,I got ready for a party with you. You blew up more balloons.,Filler,What did we do,Got ready for a party,Write a paper,What did you blow,Bubble gum,Balloons
+Object_exposure,F23,I planned to go to a concert with you. You bought the tickets.,Filler,What did we do,Bake cookies,Planned to go to a concert,Did you buy the tickets,Yes,No
+Object_exposure,F24,I had some milk with you. You drank from the blue glass.,Filler,What did we do,Had some milk,Had some orange juice,Did I drink from the blue glass,Yes,No
+Object_exposure,F25,I played video games with you. You held the controller.,Filler,What did we do,Run a marathon,Played video games,Did you hold the controller,Yes,No
+Object_exposure,F26,I went to McDonalds with you. You ordered a Big Mac.,Filler,What did you order,A salad,A Big Mac,What did we do,Went to the movies,Went to McDonald's
+Object_exposure,F27,I rode a bicycle with you. You wore a helmet.,Filler,Did I wear a helmet,Yes,No,What did we do,Went skiing,Ride bikes
+Object_exposure,F28,I decorated the house with you. You lit a candle.,Filler,What did you light,A candle,The stove,What did we do,Wash the dog,Decorated the house
+Object_exposure,F29,I went to dinner with you. You ordered some spaghetti.,Filler,Did I order spaghetti,Yes,No,What did we do,Go to dinner,Read a novel
+Object_exposure,F30,I took pictures with you. You used the camera first.,Filler,What did we do,Choreograph a dance,Took pictures,What did you use,camera,vending machine
+Object_exposure,F31,I made some art with you. You used the scissors.,Filler,What did you use,The scissors,The radio,What did we do,Went to the doctor,Made some art
+Object_exposure,F32,I put together a puzzle with you. You looked for the purple piece.,Filler,Did you look for the purple puzzle piece,Yes,No,What did we do,play monopoly,put together a puzzle
+Subject_exposure,F01,I played music with you. I played the piano.,Filler,What did we do,play music,Went swimming,What did I play,piano,guitar
+Subject_exposure,F02,I went fishing with you. I borrowed a fishing rod.,Filler,What did we do,went fishing,Baked a cake,Did I borrow the fishing rod,No,Yes
+Subject_exposure,F03,I prepared a presentation with you. I controlled the computer.,Filler,What did I control,microwave,computer,What did we do,prepared a presentation,Got ready for school
+Subject_exposure,F04,I planned a trip with you. I wanted to go by train.,Filler,What did I want,To take the train,To get ice cream,What did we do,Planned a trip,Join a gym
+Subject_exposure,F05,I went to the zoo with you. I saw a panda.,Filler,What did we do,ride a bike,Went to the zoo,What did I see,Monkeys,Panda
+Subject_exposure,F06,I played cards with you. I used the Ace of Spades to win.,Filler,What did I use,Ace of Spades,dice,What did we do,Went to the mall,Played cards
+Subject_exposure,F07,I painted the house with you. I borrowed the red paint.,Filler,What did we do,painted the house,Take dance lessons,Did I borrow the red paint,No,Yes
+Subject_exposure,F08,I went to a wedding with you. I brought some flowers.,Filler,What did we do,Went for a run,Went to a wedding,What did I bring,flowers,Wine
+Subject_exposure,F09,I played basketball with you. I wore the blue shorts.,Filler,Did I wear the blue shorts,Yes,No,What did we do,Played basketball,Ordered pizza
+Subject_exposure,F10,I got ready for school with you. I grabbed a jacket.,Filler,What did we do,Got ready for school,Performed in a play,What did I grab,scarf,jacket
+Subject_exposure,F11,I watched a soccer game with you. I used the binoculars.,Filler,What did we do,Watch a basketball game,Watch a soccor game,Did I use the binoculars,No,Yes
+Subject_exposure,F12,I watched TV with you. I grabbed the remote control.,Filler,Did you grab the remote control,Yes,No,What did we do,Watched TV,Played a board game
+Subject_exposure,F13,I hiked with you. I looked at the map.,Filler,Did you look at the map,Yes,No,What did we do,Went hiking,Went dancing
+Subject_exposure,F14,I went outside with you. I wore a hat.,Filler,What did we do,Went outside,Take a nap,Did you wear the hat,No,Yes
+Subject_exposure,F15,I had a drink with you. I ordered some wine.,Filler,What did we do,Have an argument,Got drinks,What did I order,Wine,Pie
+Subject_exposure,F16,I went running with you. I needed some water.,Filler,Did I need water,Yes,No,What did we do,Went running,Went to see a play
+Subject_exposure,F17,I went to a supermarket with you. I bought some bread.,Filler,What did I buy,Milk,Bread,What did we do,Took a shower,Went to the supermarket
+Subject_exposure,F18,I ate french fries with you. I asked for some ketchup.,Filler,Did you ask for ketchup,No,Yes,What did we do,Walked the dog,Ate french fries
+Subject_exposure,F19,I went to the library with you. I borrowed a comic book.,Filler,What did we do,Went to the pool,Went to the library,What did I borrow,video tape,comic book
+Subject_exposure,F20,I hung a picture with you. I hammered some nails.,Filler,What did we do,Hung pictures,Make the bed,Did you hammer some nails,No,Yes
+Subject_exposure,F21,I went shopping with you. I bought a sweater.,Filler,What did I buy,A pair of jeans,A sweater,What did we do,Went shopping,Went ice skating
+Subject_exposure,F22,I got ready for a party with you. I blew up more balloons.,Filler,What did we do,Got ready for a party,Write a paper,What did I blow,Bubble gum,Balloons
+Subject_exposure,F23,I planned to go to a concert with you. I bought the tickets.,Filler,What did we do,Bake cookies,Planned to go to a concert,Did you buy the tickets,No,Yes
+Subject_exposure,F24,I had some milk with you. I drank from the blue glass.,Filler,What did we do,Had some milk,Had some orange juice,Did I drink from the blue glass,Yes,No
+Subject_exposure,F25,I played video games with you. I held the controller.,Filler,What did we do,Run a marathon,Played video games,Did you hold the controller,No,Yes
+Subject_exposure,F26,I went to McDonalds with you. I ordered a Big Mac.,Filler,What did I order,A salad,A Big Mac,What did we do,Went to the movies,Went to McDonald's
+Subject_exposure,F27,I rode a bicycle with you. I wore a helmet.,Filler,Did I wear a helmet,No,Yes,What did we do,Went skiing,Ride bikes
+Subject_exposure,F28,I decorated the house with you. I lit a candle.,Filler,What did I light,A candle,The stove,What did we do,Wash the dog,Decorated the house
+Subject_exposure,F29,I went to dinner with you. I ordered some spaghetti.,Filler,Did I order spaghetti,No,Yes,What did we do,Go to dinner,Read a novel
+Subject_exposure,F30,I took pictures with you. I used the camera first.,Filler,What did we do,Choreograph a dance,Took pictures,What did I use,camera,vending machine
+Subject_exposure,F31,I made some art with you. I used the scissors.,Filler,What did I use,The scissors,The radio,What did we do,Went to the doctor,Made some art
+Subject_exposure,F32,I put together a puzzle with you. I looked for the purple piece.,Filler,Did you look for the purple puzzle piece,No,Yes,What did we do,play monopoly,put together a puzzle

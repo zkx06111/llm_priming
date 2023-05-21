@@ -1,0 +1,445 @@
+List: 1
+Reverse: True
+Engine: text-davinci-003
+Temperature 1
+Mr. Smith is a native English speaker living in England. He is asked in a psycholinguistic experiment to answer the following questions.
+Liz went to a supermarket with Matt. He bought some bread.
+Question1: What did Matt buy?
+(A)Milk
+(B)Bread
+Answer:<pad> (B)Bread</s>
+Question2: What did they do?
+(A)Took a shower
+(B)Went to the supermarket
+Answer:<pad> (B)Went to the supermarket</s>
+
+Matt took pictures with Ana. She used the camera first.
+Question1: What did they do?
+(A)Choreograph a dance
+(B)Took pictures
+Answer:<pad> (B)Took pictures</s>
+Question2: What did Ana use?
+(A)camera
+(B)vending machine
+Answer:<pad> (A)camera</s>
+
+Liz planned to go to a concert with Matt. He bought the tickets.
+Question1: What did they do?
+(A)Bake cookies
+(B)Planned to go to a concert
+Answer:<pad> (B)Planned to go to a concert</s>
+Question2: Did Matt buy the tickets?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+
+Will got ready for school with Liz. She grabbed a jacket.
+Question1: What did they do?
+(A)Got ready for school
+(B)Performed in a play
+Answer:<pad> (A)Got ready for school</s>
+Question2: What did Liz grab?
+(A)scarf
+(B)jacket
+Answer:<pad> (B)jacket</s>
+
+Will had a drink with Ana. She ordered some wine.
+Question1: What did they do?
+(A)Have an argument
+(B)Got drinks
+Answer:<pad> (B)Got drinks</s>
+Question2: What did Ana order?
+(A)Wine
+(B)Pie
+Answer:<pad> (A)Wine</s>
+
+Ana played music with Will. He played the piano.
+Question1: What did they do?
+(A)play music
+(B)Went swimming
+Answer:<pad> (A)play music</s>
+Question2: What did Will play?
+(A)piano
+(B)guitar
+Answer:<pad> (A)piano</s>
+
+Liz went to the library with Matt. He borrowed a comic book.
+Question1: What did they do?
+(A)Went to the pool
+(B)Went to the library
+Answer:<pad> (B)Went to the library</s>
+Question2: What did Matt borrow?
+(A)video tape
+(B)comic book
+Answer:<pad> (B)comic book</s>
+
+Ana prepared a presentation with Matt. He controlled the computer.
+Question1: What did Matt control?
+(A)microwave
+(B)computer
+Answer:<pad> (B)computer</s>
+Question2: What did they do?
+(A)prepared a presentation
+(B)Got ready for school
+Answer:<pad> (A)prepared a presentation</s>
+
+Matt made some art with Ana. She used the scissors.
+Question1: What did Ana use?
+(A)The scissors
+(B)The radio
+Answer:<pad> (A)The scissors</s>
+Question2: What did they do?
+(A)Went to the doctor
+(B)Made some art
+Answer:<pad> (B)Made some art</s>
+
+Ana played cards with Matt. He used the Ace of Spades to win.
+Question1: What did Matt use?
+(A)Ace of Spades
+(B)dice
+Answer:<pad> (A)Ace of Spades</s>
+Question2: What did they do?
+(A)Went to the mall
+(B)Played cards
+Answer:<pad> (B)Played cards</s>
+
+Will went outside with Liz. She wore a hat.
+Question1: What did they do?
+(A)Went outside
+(B)Take a nap
+Answer:<pad> (A)Went outside</s>
+Question2: Did Liz wear the hat?
+(A)Yes
+(B)No
+Answer:<pad> (A)Went outside</s>
+
+Will watched a soccer game with Liz. She used the binoculars.
+Question1: What did they do?
+(A)Watch a basketball game
+(B)Watch a soccor game
+Answer:<pad> (B)Watch a soccor game</s>
+Question2: Did Will use the binoculars?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+
+Ana went fishing with Will. He borrowed a fishing rod.
+Question1: What did they do?
+(A)went fishing
+(B)Baked a cake
+Answer:<pad> (A)went fishing</s>
+Question2: Did Ana borrow the fishing rod?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+
+Liz got ready for a party with Will. He blew up more balloons.
+Question1: What did they do?
+(A)Got ready for a party
+(B)Write a paper
+Answer:<pad> (A)Got ready for a party</s>
+Question2: What did Will blow?
+(A)Bubble gum
+(B)Balloons
+Answer:<pad> (B)Balloons</s>
+
+Matt played video games with Ana. She held the controller.
+Question1: What did they do?
+(A)Run a marathon
+(B)Played video games
+Answer:<pad> (B)Played video games</s>
+Question2: Did Ana hold the controller?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+
+Will played basketball with Liz. She wore the blue shorts.
+Question1: Did Will wear the blue shorts?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+Question2: What did they do?
+(A)Played basketball
+(B)Ordered pizza
+Answer:<pad> (A)Played basketball</s>
+
+Matt went to McDonalds with Ana. She ordered a Big Mac.
+Question1: What did Ana order?
+(A)A salad
+(B)A Big Mac
+Answer:<pad> (B)A Big Mac</s>
+Question2: What did they do?
+(A)Went to the movies
+(B)Went to McDonald's
+Answer:<pad> (B)Went to McDonald's</s>
+
+Matt rode a bicycle with Ana. She wore a helmet.
+Question1: Did Matt wear a helmet?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+Question2: What did they do?
+(A)Went skiing
+(B)Ride bikes
+Answer:<pad> (B)Ride bikes</s>
+
+Ana painted the house with Will. He borrowed the red paint.
+Question1: What did they do?
+(A)painted the house
+(B)Took dance lessons
+Answer:<pad> (A)painted the house</s>
+Question2: Did Ana borrow the red paint?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+
+Liz ate french fries with Matt. He asked for some ketchup.
+Question1: Did Matt ask for ketchup?
+(A)Yes
+(B)No
+Answer:<pad> (A)Yes</s>
+Question2: What did they do?
+(A)Walked the dog
+(B)Ate french fries
+Answer:<pad> (B)Ate french fries</s>
+
+Liz planted flowers with Ana. She watered the seeds.
+Question1: Did Ana water the seeds?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Planted flowers
+(B)climb a mountain
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Liz went shopping with Will. He bought a sweater.
+Question1: What did Will buy?
+(A)A pair of jeans
+(B)A sweater
+Mr. Smith's answer is <pad> (B)A sweater</s>
+Question2: What did they do?
+(A)Went shopping
+(B)Went ice skating
+Mr. Smith's answer is <pad> (A)Went shopping</s>
+
+Will went running with Ana. She needed some water.
+Question1: Did Will need water?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Went running
+(B)Went to see a play
+Mr. Smith's answer is <pad> (A)Went running</s>
+
+Matt is having dinner with Will. He wanted some chicken.
+Question1: Did Will want some chicken?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Paid for an arcade game
+(B)had dinner
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Ana had coffee with Liz. She ordered a Cappuccino.
+Question1: Did Ana order the cappuccino?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: what did they do?
+(A)get ready to go shopping
+(B)had coffee
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Will watched TV with Liz. She grabbed the remote control.
+Question1: Did Liz grab the remote control?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Watched TV
+(B)Played a board game
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Liz painted the wall with Ana. She used the green paint.
+Question1: Did Liz use the green paint?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Told jokes
+(B)Painted the wall
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Liz hung a picture with Matt. He hammered some nails.
+Question1: What did they do?
+(A)Hung pictures
+(B)Make the bed
+Mr. Smith's answer is <pad> (A)Hung pictures</s>
+Question2: Did Matt hammer some nails?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Matt put together a puzzle with Ana. She looked for the purple piece.
+Question1: Did Ana look for the purple puzzle piece?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)play monopoly
+(B)put together a puzzle
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Ana played a board game with Liz. She rolled the dice.
+Question1: Did Liz roll the dice?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Listen to music
+(B)Played a board game
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Ana went to the zoo with Will. He saw a panda.
+Question1: What did they do?
+(A)ride a bike
+(B)Went to the zoo
+Mr. Smith's answer is <pad> (B)Went to the zoo</s>
+Question2: What did Will see?
+(A)Monkeys
+(B)Panda
+Mr. Smith's answer is <pad> (B)Went to the zoo</s>
+
+Matt went to the library with Will. He read the book on world history.
+Question1: Did Matt read the book on world history?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Went to the library
+(B)Purchase a car
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Will hiked with Liz. She looked at the map.
+Question1: Did Liz look at the map?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Went hiking
+(B)Went dancing
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Will made dinner with Matt. He needed the salt.
+Question1: Did Matt need the salt?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Make dinner
+(B)Wash the car
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Ana went to a wedding with Will. He brought some flowers.
+Question1: What did they do?
+(A)Went for a run
+(B)Went to a wedding
+Mr. Smith's answer is <pad> (B)Went to a wedding</s>
+Question2: What did Will bring?
+(A)flowers
+(B)Wine
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Liz had some milk with Matt. He drank from the blue glass.
+Question1: What did they do?
+(A)Had some milk
+(B)Had some orange juice
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: Did Liz drink from the blue glass?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Ana cleaned up with Liz. She swept the floor with the broom.
+Question1: Did Ana sweep the floor?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Cleaned up
+(B)order take out
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Ana planned a trip with Matt. He wanted to go by train.
+Question1: What did Matt want?
+(A)To take the train
+(B)To get ice cream
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Planned a trip
+(B)Join a gym
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Matt went to dinner with Liz. She ordered some spaghetti.
+Question1: Did Matt order spaghetti?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Go to dinner
+(B)Read a novel
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Liz assembled a bed with Ana. She needed the hammer.
+Question1: Did Liz need the hammer?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Went shopping
+(B)assembled a bed
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Matt read with Will. He read the book on aliens.
+Question1: Did Will read the book?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: what did they do?
+(A)read
+(B)Baked cookies
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Matt decorated the house with Ana. She lit a candle.
+Question1: What did Ana light?
+(A)A candle
+(B)The stove
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Wash the dog
+(B)Decorated the house
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Will had a snack with Matt. He ate some potato chips.
+Question1: Did Will eat the potato chips?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: what did they do?
+(A)Had a snack
+(B)Planted flowers
+Mr. Smith's answer is <pad> (A)Yes</s>
+
+Will went to the bookstore with Matt. He bought the new book on sailing.
+Question1: Did Matt buy the book on sailing?
+(A)Yes
+(B)No
+Mr. Smith's answer is <pad> (A)Yes</s>
+Question2: What did they do?
+(A)Watch netflix
+(B)Went to the bookstore
+Mr. Smith's answer is <pad> (A)Yes</s>
+

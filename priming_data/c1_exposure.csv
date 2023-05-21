@@ -1,0 +1,65 @@
+Type filler,item,Stimulus,Stimtype,Q1,answer1,answer2,Q2,answer3,answer4
+Object_exposure,F01,Ana played music with Will. He played the piano.,Filler,What did they do,play music,Went swimming,What did Will play,piano,guitar
+Object_exposure,F02,Ana went fishing with Will. He borrowed a fishing rod.,Filler,What did they do,went fishing,Baked a cake,Did Ana borrow the fishing rod,Yes,No
+Object_exposure,F03,Ana prepared a presentation with Matt. He controlled the computer.,Filler,What did Matt control,microwave,computer,What did they do,prepared a presentation,Got ready for school
+Object_exposure,F04,Ana planned a trip with Matt. He wanted to go by train.,Filler,What did Matt want,To take the train,To get ice cream,What did they do,Planned a trip,Join a gym
+Object_exposure,F05,Ana went to the zoo with Will. He saw a panda.,Filler,What did they do,ride a bike,Went to the zoo,What did Will see,Monkeys,Panda
+Object_exposure,F06,Ana played cards with Matt. He used the Ace of Spades to win.,Filler,What did Matt use,Ace of Spades,dice,What did they do,Went to the mall,Played cards
+Object_exposure,F07,Ana painted the house with Will. He borrowed the red paint.,Filler,What did they do,painted the house,Took dance lessons,Did Ana borrow the red paint,Yes,No
+Object_exposure,F08,Ana went to a wedding with Will. He brought some flowers.,Filler,What did they do,Went for a run,Went to a wedding,What did Will bring,flowers,Wine
+Object_exposure,F09,Will played basketball with Liz. She wore the blue shorts.,Filler,Did Will wear the blue shorts,Yes,No,What did they do,Played basketball,Ordered pizza
+Object_exposure,F10,Will got ready for school with Liz. She grabbed a jacket.,Filler,What did they do,Got ready for school,Performed in a play,What did Liz grab,scarf,jacket
+Object_exposure,F11,Will watched a soccer game with Liz. She used the binoculars.,Filler,What did they do,Watch a basketball game,Watch a soccor game,Did Will use the binoculars,Yes,No
+Object_exposure,F12,Will watched TV with Liz. She grabbed the remote control.,Filler,Did Liz grab the remote control,Yes,No,What did they do,Watched TV,Played a board game
+Object_exposure,F13,Will hiked with Liz. She looked at the map.,Filler,Did Liz look at the map,Yes,No,What did they do,Went hiking,Went dancing
+Object_exposure,F14,Will went outside with Liz. She wore a hat.,Filler,What did they do,Went outside,Take a nap,Did Liz wear the hat,Yes,No
+Object_exposure,F15,Will had a drink with Ana. She ordered some wine.,Filler,What did they do,Have an argument,Got drinks,What did Ana order,Wine,Pie
+Object_exposure,F16,Will went running with Ana. She needed some water.,Filler,Did Will need water,Yes,No,What did they do,Went running,Went to see a play
+Object_exposure,F17,Liz went to a supermarket with Matt. He bought some bread.,Filler,What did Matt buy,Milk,Bread,What did they do,Took a shower,Went to the supermarket
+Object_exposure,F18,Liz ate french fries with Matt. He asked for some ketchup.,Filler,Did Matt ask for ketchup,Yes,No,What did they do,Walked the dog,Ate french fries
+Object_exposure,F19,Liz went to the library with Matt. He borrowed a comic book.,Filler,What did they do,Went to the pool,Went to the library,What did Matt borrow,video tape,comic book
+Object_exposure,F20,Liz hung a picture with Matt. He hammered some nails.,Filler,What did they do,Hung pictures,Make the bed,Did Matt hammer some nails,Yes,No
+Object_exposure,F21,Liz went shopping with Will. He bought a sweater.,Filler,What did Will buy,A pair of jeans,A sweater,What did they do,Went shopping,Went ice skating
+Object_exposure,F22,Liz got ready for a party with Will. He blew up more balloons.,Filler,What did they do,Got ready for a party,Write a paper,What did Will blow,Bubble gum,Balloons
+Object_exposure,F23,Liz planned to go to a concert with Matt. He bought the tickets.,Filler,What did they do,Bake cookies,Planned to go to a concert,Did Matt buy the tickets,Yes,No
+Object_exposure,F24,Liz had some milk with Matt. He drank from the blue glass.,Filler,What did they do,Had some milk,Had some orange juice,Did Liz drink from the blue glass,Yes,No
+Object_exposure,F25,Matt played video games with Ana. She held the controller.,Filler,What did they do,Run a marathon,Played video games,Did Ana hold the controller,Yes,No
+Object_exposure,F26,Matt went to McDonalds with Ana. She ordered a Big Mac.,Filler,What did Ana order,A salad,A Big Mac,What did they do,Went to the movies,Went to McDonald's
+Object_exposure,F27,Matt rode a bicycle with Ana. She wore a helmet.,Filler,Did Matt wear a helmet,Yes,No,What did they do,Went skiing,Ride bikes
+Object_exposure,F28,Matt decorated the house with Ana. She lit a candle.,Filler,What did Ana light,A candle,The stove,What did they do,Wash the dog,Decorated the house
+Object_exposure,F29,Matt went to dinner with Liz. She ordered some spaghetti.,Filler,Did Matt order spaghetti,Yes,No,What did they do,Go to dinner,Read a novel
+Object_exposure,F30,Matt took pictures with Ana. She used the camera first.,Filler,What did they do,Choreograph a dance,Took pictures,What did Ana use,camera,vending machine
+Object_exposure,F31,Matt made some art with Ana. She used the scissors.,Filler,What did Ana use,The scissors,The radio,What did they do,Went to the doctor,Made some art
+Object_exposure,F32,Matt put together a puzzle with Ana. She looked for the purple piece.,Filler,Did Ana look for the purple puzzle piece,Yes,No,What did they do,play monopoly,put together a puzzle
+Subject_exposure,F01,Ana played music with Will. She played the piano.,Filler,What did they do,play music,Went swimming,What did Ana play,piano,guitar
+Subject_exposure,F02,Ana went fishing with Will. She borrowed a fishing rod.,Filler,What did they do,went fishing,Baked a cake,Did Ana borrow the fishing rod,No,Yes
+Subject_exposure,F03,Ana prepared a presentation with Matt. She controlled the computer.,Filler,What did Ana control,microwave,computer,What did they do,prepared a presentation,Got ready for school
+Subject_exposure,F04,Ana planned a trip with Matt. She wanted to go by train.,Filler,What did Ana want,To take the train,To get ice cream,What did they do,Planned a trip,Join a gym
+Subject_exposure,F05,Ana went to the zoo with Will. She saw a panda.,Filler,What did they do,ride a bike,Went to the zoo,What did Ana see,Monkeys,Panda
+Subject_exposure,F06,Ana played cards with Matt. She used the Ace of Spades to win.,Filler,What did Ana use,Ace of Spades,dice,What did they do,Went to the mall,Played cards
+Subject_exposure,F07,Ana painted the house with Will. She borrowed the red paint.,Filler,What did they do,painted the house,Take dance lessons,Did Ana borrow the red paint,No,Yes
+Subject_exposure,F08,Ana went to a wedding with Will. She brought some flowers.,Filler,What did they do,Went for a run,Went to a wedding,What did Ana bring,flowers,Wine
+Subject_exposure,F09,Will played basketball with Liz. He wore the blue shorts.,Filler,Did Will wear the blue shorts,Yes,No,What did they do,Played basketball,Ordered pizza
+Subject_exposure,F10,Will got ready for school with Liz. He grabbed a jacket.,Filler,What did they do,Got ready for school,Performed in a play,What did Will grab,scarf,jacket
+Subject_exposure,F11,Will watched a soccer game with Liz. He used the binoculars.,Filler,What did they do,Watch a basketball game,Watch a soccor game,Did Will use the binoculars,No,Yes
+Subject_exposure,F12,Will watched TV with Liz. He grabbed the remote control.,Filler,Did Liz grab the remote control,Yes,No,What did they do,Watched TV,Played a board game
+Subject_exposure,F13,Will hiked with Liz. He looked at the map.,Filler,Did Liz look at the map,Yes,No,What did they do,Went hiking,Went dancing
+Subject_exposure,F14,Will went outside with Liz. He wore a hat.,Filler,What did they do,Went outside,Take a nap,Did Liz wear the hat,No,Yes
+Subject_exposure,F15,Will had a drink with Ana. He ordered some wine.,Filler,What did they do,Have an argument,Got drinks,What did Will order,Wine,Pie
+Subject_exposure,F16,Will went running with Ana. He needed some water.,Filler,Did Will need water,Yes,No,What did they do,Went running,Went to see a play
+Subject_exposure,F17,Liz went to a supermarket with Matt. She bought some bread.,Filler,What did Liz buy,Milk,Bread,What did they do,Took a shower,Went to the supermarket
+Subject_exposure,F18,Liz ate french fries with Matt. She asked for some ketchup.,Filler,Did Matt ask for ketchup,No,Yes,What did they do,Walked the dog,Ate french fries
+Subject_exposure,F19,Liz went to the library with Matt. She borrowed a comic book.,Filler,What did they do,Went to the pool,Went to the library,What did Liz borrow,video tape,comic book
+Subject_exposure,F20,Liz hung a picture with Matt. She hammered some nails.,Filler,What did they do,Hung pictures,Make the bed,Did Matt hammer some nails,No,Yes
+Subject_exposure,F21,Liz went shopping with Will. She bought a sweater.,Filler,What did Liz buy,A pair of jeans,A sweater,What did they do,Went shopping,Went ice skating
+Subject_exposure,F22,Liz got ready for a party with Will. She blew up more balloons.,Filler,What did they do,Got ready for a party,Write a paper,What did Liz blow ,Bubble gum,Balloons
+Subject_exposure,F23,Liz planned to go to a concert with Matt. She bought the tickets.,Filler,What did they do,Bake cookies,Planned to go to a concert,Did Matt buy the tickets,No,Yes
+Subject_exposure,F24,Liz had some milk with Matt. She drank from the blue glass.,Filler,What did they do,Had some milk,Had some orange juice,Did Liz drink from the blue glass,Yes,No
+Subject_exposure,F25,Matt played video games with Ana. He held the controller.,Filler,What did they do,Run a marathon,Played video games,Did Ana hold the controller,No,Yes
+Subject_exposure,F26,Matt went to McDonalds with Ana. He ordered a Big Mac.,Filler,What did Matt order,A salad,A Big Mac,What did they do,Went to the movies,Went to McDonald's
+Subject_exposure,F27,Matt rode a bicycle with Ana. He wore a helmet.,Filler,Did Matt wear a helmet,No,Yes,What did they do,Went skiing,Ride bikes
+Subject_exposure,F28,Matt decorated the house with Ana. He lit a candle.,Filler,What did Matt light,A candle,The stove,What did they do,Wash the dog,Decorated the house
+Subject_exposure,F29,Matt went to dinner with Liz. He ordered some spaghetti.,Filler,Did Matt order spaghetti,No,Yes,What did they do,Go to dinner,Read a novel
+Subject_exposure,F30,Matt took pictures with Ana. He used the camera first.,Filler,What did they do,Choreograph a dance,Took pictures,What did Matt use,camera,vending machine
+Subject_exposure,F31,Matt made some art with Ana. He used the scissors.,Filler,What did Matt use,The scissors,The radio,What did they do,Went to the doctor,Made some art
+Subject_exposure,F32,Matt put together a puzzle with Ana. He looked for the purple piece.,Filler,Did Ana look for the purple puzzle piece,No,Yes,What did they do,play monopoly,put together a puzzle

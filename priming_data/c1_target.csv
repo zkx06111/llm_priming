@@ -1,0 +1,25 @@
+List,Item,Story,Stimtype,Critical Question,Comprehension,answer1,answer2
+1,T01,Ana cleaned up with Liz. She swept the floor with the broom.,Target,Did Ana sweep the floor,What did they do,Cleaned up,order take out
+2,T01,Ana cleaned up with Liz. She swept the floor with the broom.,Target,Did Liz sweep the floor,What did they do,Cleaned up,order take out
+1,T02,Will had a snack with Matt. He ate some potato chips.,Target,Did Will eat the potato chips,what did they do,Had a snack,Planted flowers
+2,T02,Will had a snack with Matt. He ate some potato chips.,Target,Did Matt eat the potato chips,what did they do,Had a snack,Planted flowers
+1,T03,Liz painted the wall with Ana. She used the green paint.,Target,Did Liz use the green paint,What did they do,Told jokes,Painted the wall
+2,T03,Liz painted the wall with Ana. She used the green paint.,Target,Did Ana use the green paint,What did they do,Told jokes,Painted the wall
+1,T04,Matt went to the library with Will. He read the book on world history.,Target,Did Matt read the book on world history,What did they do,Went to the library,Purchase a car
+2,T04,Matt went to the library with Will. He read the book on world history.,Target,Did Will read the book on world history,What did they do,Went to the library,Purchase a car
+1,T05,Ana had coffee with Liz. She ordered a Cappuccino.,Target,Did Ana order the cappuccino,what did they do,get ready to go shopping,had coffee
+2,T05,Ana had coffee with Liz. She ordered a Cappuccino.,Target,Did Liz order the cappuccino,what did they do,get ready to go shopping,had coffee
+1,T06,Ana played a board game with Liz. She rolled the dice.,Target,Did Liz roll the dice,What did they do,Listen to music,Played a board game
+2,T06,Ana played a board game with Liz. She rolled the dice.,Target,Did Ana roll the dice,What did they do,Listen to music,Played a board game
+1,T07,Liz assembled a bed with Ana. She needed the hammer.,Target,Did Liz need the hammer,What did they do,Went shopping,assembled a bed
+2,T07,Liz assembled a bed with Ana. She needed the hammer.,Target,Did Ana need the hammer,What did they do,Went shopping,assembled a bed
+1,T08,Liz planted flowers with Ana. She watered the seeds.,Target,Did Ana water the seeds,What did they do,Planted flowers,climb a mountain
+2,T08,Liz planted flowers with Ana. She watered the seeds.,Target,Did Liz water the seeds,What did they do,Planted flowers,climb a mountain
+1,T09,Matt is having dinner with Will. He wanted some chicken.,Target,Did Will want some chicken,What did they do,Paid for an arcade game,had dinner
+2,T09,Matt is having dinner with Will. He wanted some chicken.,Target,Did Matt want some chicken,What did they do,Paid for an arcade game,had dinner
+1,T10,Matt read with Will. He read the book on aliens.,Target,Did Will read the book,what did they do,read,Baked cookies
+2,T10,Matt read with Will. He read the book on aliens.,Target,Did Matt read the book,what did they do,read,Baked cookies
+1,T11,Will went to the bookstore with Matt. He bought the new book on sailing.,Target,Did Matt buy the book on sailing,What did they do,Watch netflix,Went to the bookstore
+2,T11,Will went to the bookstore with Matt. He bought the new book on sailing.,Target,Did Will buy the book on sailing,What did they do,Watch netflix,Went to the bookstore
+1,T12,Will made dinner with Matt. He needed the salt.,Target,Did Matt need the salt,What did they do,Make dinner,Wash the car
+2,T12,Will made dinner with Matt. He needed the salt.,Target,Did Will need the salt,What did they do,Make dinner,Wash the car

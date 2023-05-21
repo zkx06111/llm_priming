@@ -1,0 +1,93 @@
+ItemType,Stimuli,Kind
+Subject,I played music with you. I played the piano.,Filler
+Subject,I went fishing with you. I borrowed a fishing rod.,Filler
+Subject,I prepared a presentation with you. I controlled the computer.,Filler
+Subject,I planned a trip with you. I wanted to go by train.,Filler
+Subject,I went to the zoo with you. I saw a panda.,Filler
+Subject,I played cards with you. I used the Ace of Spades to win.,Filler
+Subject,I painted the house with you. I borrowed the red paint.,Filler
+Subject,I went to a wedding with you. I brought some flowers.,Filler
+Subject,You played basketball with me. You wore the blue shorts.,Filler
+Subject,You got ready for school with me. You grabbed a jacket.,Filler
+Subject,You watched a soccer game with me. You used the binoculars.,Filler
+Subject,You watched TV with me. You grabbed the remote control.,Filler
+Subject,You hiked with me. You looked at the map.,Filler
+Subject,You went outside with me. You wore a hat.,Filler
+Subject,You had a drink with me. You ordered some wine.,Filler
+Subject,You went running with me.  You needed some water.,Filler
+Subject,I went to the supermarket with you. I bought some bread.,Filler
+Subject,I ate french fries with you. I asked for some ketchup.,Filler
+Subject,I went to the library with you. I borrowed a comic book.,Filler
+Subject,I hung a picture with you. I hammered some nails.,Filler
+Subject,I went shopping with you. I bought a sweater.,Filler
+Subject,I got ready for a party with you. I blew up more balloons.,Filler
+Subject,I planned to go to a concert with you. I bought the tickets.,Filler
+Subject,I had some milk with you. I drank from the blue glass.,Filler
+Subject,You played video games with me.  You held the controller.,Filler
+Subject,You went to McDonald's with me. You ordered a Big Mac.,Filler
+Subject,You rode a bicycle with me. You wore a helmet.,Filler
+Subject,You decorated the house with me. You lit a candle.,Filler
+Subject,You went to dinner with me. You ordered some spaghetti.,Filler
+Subject,You took pictures with me. You used the camera first.,Filler
+Subject,You made some art with me. You used the scissors.,Filler
+Subject,You put together a puzzle with me. You looked for the purple piece.,Filler
+Subject,You washed the car with me. You squeezed the soap.,Filler
+Subject,You had noodles with me. You wanted egg noodles.,Filler
+Subject,You wrote a story with me. You needed a red pen.,Filler
+Subject,You hung laundry with me. You used some clothespins.,Filler
+Subject,I made sandwiches with you. I preferred whole-grain bread.,Filler
+Subject,I grilled meat with you. I needed the spatula.,Filler
+Subject,I ate breakfast with you. I wanted bacon and eggs.,Filler
+Subject,I made a cake with you. I wanted chocolate icing.,Filler
+Nonsubject,I played music with you. You played the piano.,Filler
+Nonsubject,I went fishing with you. You borrowed a fishing rod.,Filler
+Nonsubject,I prepared a presentation with you. You controlled the computer.,Filler
+Nonsubject,I planned a trip with you. You wanted to go by train.,Filler
+Nonsubject,I went to the zoo with you. You saw a panda.,Filler
+Nonsubject,I played cards with you. You used the Ace of Spades to win.,Filler
+Nonsubject,I painted the house with you. You borrowed the red paint.,Filler
+Nonsubject,I went to a wedding with you. You brought some flowers.,Filler
+Nonsubject,You played basketball with me. I wore the blue shorts.,Filler
+Nonsubject,You got ready for school with me. I grabbed a jacket.,Filler
+Nonsubject,You watched a soccer game with me. I used the binoculars.,Filler
+Nonsubject,You watched TV with me. I grabbed the remote control.,Filler
+Nonsubject,You hiked with me. I looked at the map.,Filler
+Nonsubject,You went outside with me. I wore a hat.,Filler
+Nonsubject,You had a drink with me. I ordered some wine.,Filler
+Nonsubject,You went running with me.  I needed some water.,Filler
+Nonsubject,I went to the supermarket with you. You bought some bread.,Filler
+Nonsubject,I ate french fries with you. You asked for some ketchup.,Filler
+Nonsubject,I went to the library with you. You borrowed a comic book.,Filler
+Nonsubject,I hung a picture with you. You hammered some nails.,Filler
+Nonsubject,I went shopping with you. You bought a sweater.,Filler
+Nonsubject,I got ready for a party with you. You blew up more balloons.,Filler
+Nonsubject,I planned to go to a concert with you. You bought the tickets.,Filler
+Nonsubject,I had some milk with you. You drank from the blue glass.,Filler
+Nonsubject,You played video games with me.  I held the controller.,Filler
+Nonsubject,You went to McDonald's with me. I ordered a Big Mac.,Filler
+Nonsubject,You rode a bicycle with me. I wore a helmet.,Filler
+Nonsubject,You decorated the house with me. I lit a candle.,Filler
+Nonsubject,You went to dinner with me. I ordered some spaghetti.,Filler
+Nonsubject,You took pictures with me. I used the camera first.,Filler
+Nonsubject,You made some art with me. I used the scissors.,Filler
+Nonsubject,You put together a puzzle with me. I looked for the purple piece.,Filler
+Nonsubject,You washed the car with me. I squeezed the soap.,Filler
+Nonsubject,You had noodles with me. I wanted egg noodles.,Filler
+Nonsubject,You wrote a story with me. I needed a red pen.,Filler
+Nonsubject,You hung laundry with me. I used some clothespins.,Filler
+Nonsubject,I made sandwiches with you. You preferred whole-grain bread.,Filler
+Nonsubject,I grilled meat with you. You needed the spatula.,Filler
+Nonsubject,I ate breakfast with you. You wanted bacon and eggs.,Filler
+Nonsubject,I made a cake with you. You wanted chocolate icing.,Filler
+Ambiguous,Ana cleaned up with Liz. She swept the floor with the broom.,Target
+Ambiguous,Will had a snack with Matt. He ate some potato chips.,Target
+Ambiguous,Liz painted the wall with Ana. She used the green paint.,Target
+Ambiguous,Matt went to the library with Will. He read the book on world history.,Target
+Ambiguous,Ana had coffee with Liz. She ordered a Cappuccino.,Target
+Ambiguous,Ana played a board game with Liz. She rolled the dice.,Target
+Ambiguous,Liz assembled a bed with Ana. She used the hammer.,Target
+Ambiguous,Liz planted flowers with Ana. She watered the seeds.,Target
+Ambiguous,Matt had dinner with Will. He wanted some chicken.,Target
+Ambiguous,Matt read with Will. He read the book on aliens.,Target
+Ambiguous,Will went to the bookstore with Matt. He bought the new book on sailing.,Target
+Ambiguous,Will made dinner with Matt. He asked for the salt.,Target

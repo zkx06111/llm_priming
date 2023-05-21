@@ -1,0 +1,93 @@
+ItemType,Stimuli,Kind
+Subject,Ana played music with Will. She played the piano.,Filler
+Subject,Ana went fishing with Will. She borrowed a fishing rod.,Filler
+Subject,Ana prepared a presentation with Matt. She controlled the computer.,Filler
+Subject,Ana planned a trip with Matt. She wanted to go by train.,Filler
+Subject,Ana went to the zoo with Will. She saw a panda.,Filler
+Subject,Ana played cards with Matt. She used the Ace of Spades to win.,Filler
+Subject,Ana painted the house with Will. She borrowed the red paint.,Filler
+Subject,Ana went to a wedding with Will. She brought some flowers.,Filler
+Subject,Will played basketball with Liz. He wore the blue shorts.,Filler
+Subject,Will got ready for school with Liz. He grabbed a jacket.,Filler
+Subject,Will watched a soccer game with Liz. He used the binoculars.,Filler
+Subject,Will watched TV with Liz. He grabbed the remote control.,Filler
+Subject,Will hiked with Liz. He looked at the map.,Filler
+Subject,Will went outside with Liz. He wore a hat.,Filler
+Subject,Will had a drink with Ana. He ordered some wine.,Filler
+Subject,Will went running with Ana.  He needed some water.,Filler
+Subject,Liz went to the supermarket with Matt. She bought some bread.,Filler
+Subject,Liz ate french fries with Matt. She asked for some ketchup.,Filler
+Subject,Liz went to the library with Matt. She borrowed a comic book.,Filler
+Subject,Liz hung a picture with Matt. She hammered some nails.,Filler
+Subject,Liz went shopping with Will. She bought a sweater.,Filler
+Subject,Liz got ready for a party with Will. She blew up more balloons.,Filler
+Subject,Liz planned to go to a concert with Matt. She bought the tickets.,Filler
+Subject,Liz had some milk with Matt. She drank from the blue glass.,Filler
+Subject,Matt played video games with Ana.  He held the controller.,Filler
+Subject,Matt went to McDonald's with Ana. He ordered a Big Mac.,Filler
+Subject,Matt rode a bicycle with Ana. He wore a helmet.,Filler
+Subject,Matt decorated the house with Ana. He lit a candle.,Filler
+Subject,Matt went to dinner with Liz. He ordered some spaghetti.,Filler
+Subject,Matt took pictures with Ana. He used the camera first.,Filler
+Subject,Matt made some art with Ana. He used the scissors.,Filler
+Subject,Matt put together a puzzle with Ana. He looked for the purple piece.,Filler
+Subject,Will was washing the car with Liz. He squeezed the soap.,Filler
+Subject,Will had noodles with Ana. He wanted egg noodles.,Filler
+Subject,Matt wrote a story with Liz. He needed a red pen.,Filler
+Subject,Matt hung laundry with Ana. He used some clothespins.,Filler
+Subject,Liz made sandwiches with Matt. She preferred whole-grain bread.,Filler
+Subject,Liz grilled meat with Will. She needed the spatula.,Filler
+Subject,Ana ate breakfast with Will. She wanted bacon and eggs.,Filler
+Subject,Ana made a cake with Matt. She wanted chocolate icing.,Filler
+Nonsubject,Ana played music with Will. He played the piano.,Filler
+Nonsubject,Ana went fishing with Will. He borrowed a fishing rod.,Filler
+Nonsubject,Ana prepared a presentation with Matt. He controlled the computer.,Filler
+Nonsubject,Ana planned a trip with Matt. He wanted to go by train.,Filler
+Nonsubject,Ana went to the zoo with Will. He saw a panda.,Filler
+Nonsubject,Ana played cards with Matt. He used the Ace of Spades to win.,Filler
+Nonsubject,Ana painted the house with Will. He borrowed the red paint.,Filler
+Nonsubject,Ana went to a wedding with Will. He brought some flowers.,Filler
+Nonsubject,Will played basketball with Liz. She wore the blue shorts.,Filler
+Nonsubject,Will got ready for school with Liz. She grabbed a jacket.,Filler
+Nonsubject,Will watched a soccer game with Liz. She used the binoculars.,Filler
+Nonsubject,Will watched TV with Liz. She grabbed the remote control.,Filler
+Nonsubject,Will hiked with Liz. She looked at the map.,Filler
+Nonsubject,Will went outside with Liz. She wore a hat.,Filler
+Nonsubject,Will had a drink with Ana. She ordered some wine.,Filler
+Nonsubject,Will went running with Ana.  She needed some water.,Filler
+Nonsubject,Liz went to the supermarket with Matt. He bought some bread.,Filler
+Nonsubject,Liz ate french fries with Matt. He asked for some ketchup.,Filler
+Nonsubject,Liz went to the library with Matt. He borrowed a comic book.,Filler
+Nonsubject,Liz hung a picture with Matt. He hammered some nails.,Filler
+Nonsubject,Liz went shopping with Will. He bought a sweater.,Filler
+Nonsubject,Liz got ready for a party with Will. He blew up more balloons.,Filler
+Nonsubject,Liz planned to go to a concert with Matt. He bought the tickets.,Filler
+Nonsubject,Liz had some milk with Matt. He drank from the blue glass.,Filler
+Nonsubject,Matt played video games with Ana.  She held the controller.,Filler
+Nonsubject,Matt went to McDonald's with Ana. She ordered a Big Mac.,Filler
+Nonsubject,Matt rode a bicycle with Ana. She wore a helmet.,Filler
+Nonsubject,Matt decorated the house with Ana. She lit a candle.,Filler
+Nonsubject,Matt went to dinner with Liz. She ordered some spaghetti.,Filler
+Nonsubject,Matt took pictures with Ana. She used the camera first.,Filler
+Nonsubject,Matt made some art with Ana. She used the scissors.,Filler
+Nonsubject,Matt put together a puzzle with Ana. She looked for the purple piece.,Filler
+Nonsubject,Will was washing the car with Liz. She squeezed the soap.,Filler
+Nonsubject,Will had noodles with Ana. She wanted egg noodles.,Filler
+Nonsubject,Matt wrote a story with Liz. She needed a red pen.,Filler
+Nonsubject,Matt hung laundry with Ana. She used some clothespins.,Filler
+Nonsubject,Liz made sandwiches with Matt. He preferred whole-grain bread.,Filler
+Nonsubject,Liz grilled meat with Will. He needed the spatula.,Filler
+Nonsubject,Ana ate breakfast with Will. He wanted bacon and eggs.,Filler
+Nonsubject,Ana made a cake with Matt. He wanted chocolate icing.,Filler
+Ambiguous,Ana cleaned up with Liz. She swept the floor with the broom.,Target
+Ambiguous,Will had a snack with Matt. He ate some potato chips.,Target
+Ambiguous,Liz painted the wall with Ana. She used the green paint.,Target
+Ambiguous,Matt went to the library with Will. He read the book on world history.,Target
+Ambiguous,Ana had coffee with Liz. She ordered a Cappuccino.,Target
+Ambiguous,Ana played a board game with Liz. She rolled the dice.,Target
+Ambiguous,Liz assembled a bed with Ana. She used the hammer.,Target
+Ambiguous,Liz planted flowers with Ana. She watered the seeds.,Target
+Ambiguous,Matt had dinner with Will. He wanted some chicken.,Target
+Ambiguous,Matt read with Will. He read the book on aliens.,Target
+Ambiguous,Will went to the bookstore with Matt. He bought the new book on sailing.,Target
+Ambiguous,Will made dinner with Matt. He asked for the salt.,Target

@@ -1,0 +1,442 @@
+Engine: text-davinci-003
+Temperature 0.88
+Ana and Matt were taking an English lit class together. Ana borrowed the book from Matt and then he turned his essay in.
+Question1: Did Ana turn her essay in?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Ana and Matt doing?
+(A)taking an English lit class together
+(B)playing with the frisbee
+Answer: A) Taking an English
+
+Ana and Will were playing baseball. Ana threw the ball to Will and then she shielded her eyes.
+Question1: Did Ana shield her eyes?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Ana and Will doing?
+(A)playing baseball
+(B)watching the basketball game
+Answer: A) Playing baseball
+
+Will and Liz were grocery shopping. Will gave the credit card to Liz and then he browsed the magazines.
+Question1: Did Will browse the magazines?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Will and Liz doing?
+(A)grocery shopping
+(B)getting ready for the holidays
+Answer: A) Grocery shopping
+
+Will and Liz were watching TV. Will took the remote from Liz and then she went to get a beer.
+Question1: Did Will go to get a beer?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Will and Liz doing?
+(A)watching TV
+(B)playing basketball
+Answer: A) Watching TV
+
+Ana and Will were looking at their old silverware. Ana took a serving spoon from Will and then he organized the teaspoons.
+Question1: Did Will organize the teaspoons?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Ana take from Will?
+(A)a serving spoon
+(B)the fries
+Answer: A) A serving spoon
+
+Matt and Liz were getting ready for the holidays. Matt mailed the Christmas card to Liz and then he bought more stamps.
+Question1: Did Matt buy more stamps?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Matt and Liz doing?
+(A)getting ready for the holidays
+(B)going skiing
+Answer: A) Getting ready for
+
+Matt and Ana were cooking dinner. Matt handed the salt to Ana  and then he made a salad.
+Question1: Did Ana make a salad?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Matt hand to Ana?
+(A)the salt
+(B)an article
+Answer: A) The salt
+
+Liz and Will were getting ready for a party. Liz borrowed a hat from Will and then he put on his jacket.
+Question1: Did Will put on his jacket?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Liz and Will doing?
+(A)getting ready for a party
+(B)taking an English lit class together
+Answer: A) Getting ready for
+
+Liz and Matt were building an Ikea desk. Liz got the instructions from Matt and then he laid all the pieces on the floor.
+Question1: Did Matt lay all the pieces on the floor?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Liz get from Matt?
+(A)the instructions
+(B)a ride
+Answer: A) The instructions
+
+Liz was going skiing with Matt. Liz loaned some gloves to Matt and then she hit the slopes.
+Question1: Did Matt hit the slopes?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Liz and Matt doing?
+(A)going skiing
+(B)playing baseball
+Answer: A) Going skiing
+
+Matt and Liz were dividing up the rent for the apartment. Matt received a check from Liz and then she checked her bank account.
+Question1: Did Matt check his bank account?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Matt and Liz doing?
+(A)dividing up the rent for the apartment
+(B)playing with the frisbee
+Answer: A) Dividing
+
+Will and Ana were going ice skating. Will brought the skates to Ana and then he put his gloves on.
+Question1: Did Ana put her gloves on?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Will bring to Ana?
+(A)the skates
+(B)a stack of dishes
+Answer: A) The skates
+
+Will and Matt were taking an exam in class. Will loaned a pencil to Matt and then he began his exam.
+Question1: Did Matt begin his exam?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Will loan to Matt?
+(A)a pencil
+(B)the quarters
+Answer: A) A pencil
+
+Matt and Ana were walking the dog. Matt brought the ball to Ana and then he pet the dog.
+Question1: Did Matt pet the dog?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Matt and Ana doing?
+(A)walking the dog
+(B)looking through their old books
+Answer: A) Walking the dog
+
+Matt and Ana were eating at their favorite restaurant. Matt got the ketchup from Ana and then she ate some pizza.
+Question1: Did Ana eat some pizza?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Matt get from Ana?
+(A)the ketchup
+(B)the gift
+Answer: A) The ketchup
+
+Ana and Liz were texting in class. Ana received a text from Liz and then she took a screenshot.
+Question1: Did Ana take a screenshot?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Ana and Liz doing?
+(A)texting in class
+(B)arriving home at different times
+Answer: A) Texting in
+
+Ana and Matt were having dinner at a fancy restaurant. Ana offered some wine to Matt and then she tried the appetizer.
+Question1: Did Matt try the appetizer?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Ana offer to Matt?
+(A)some wine
+(B)the salt
+Answer: A) Some wine
+
+Will and Liz were eating at a fast food restaurant. Will took the fries from Liz and then she wiped her hands with a napkin.
+Question1: Did Liz wipe her hands with a napkin?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Will take from Liz?
+(A)the fries
+(B)the ketchup
+Answer: A) The fries
+
+Liz and Ana were writing a chemistry report together. Liz got the notebook from Ana and then she wrote the results section.
+Question1: Did Ana write the results section?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Liz get from Ana?
+(A)the notebook
+(B)the coupons
+Answer: A) The notebook
+
+Will and Liz were watching the basketball game. Will handed the popcorn to Liz and then he got a slice of pizza. 
+Question1: Did Will get a slice of pizza?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Will and Liz doing?
+(A)watching the basketball game
+(B)grocery shopping
+Answer: A) Watching the basketball
+
+Matt and Liz were studying at the library. Matt retrieved a book from Liz and then she took a break from studying.
+Question1: Did Matt take a break from studying?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Matt and Liz doing?
+(A)studying at the library
+(B)getting ready for a party
+Answer: A) Studying at
+
+Matt and Will were looking up how to get to the movie theater. Matt threw the phone to Will and then he wrote down the directions.
+Question1: Did Matt write down the directions?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Matt and Will doing?
+(A)looking up how to get to the movie theater
+(B)throwing away the trash
+Answer: A) Looking up how
+
+Liz and Matt were playing with the frisbee outside. Liz snatched the frisbee from Matt and then he decided not to play anymore.
+Question1: Did Liz decide not to play anymore?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Liz and Matt doing?
+(A)playing with the frisbee
+(B)studying at the library
+Answer: A) Playing with the
+
+Ana and Will were looking through their old books. Ana loaned a novel to Will and then she organized her comic books.
+Question1: Did Ana organize her comic books?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Ana and Will doing?
+(A)looking through their old books
+(B)cleaning the car
+Answer: A) Looking through their
+
+Will and Matt were arriving home at different times. Will borrowed an extra key from Matt and then he took the bus home.
+Question1: Did Will take the bus home?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Will and Matt doing?
+(A)arriving home at different times
+(B)throwing away the trash
+Answer: A) Arriving home
+
+Liz and Will were passing notes in class. Liz received a note from Will and then he looked the other way.
+Question1: Did Will look the other way?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Liz receive from Will?
+(A)a note
+(B)a serving spoon
+Answer: A) A note
+
+Ana and Matt were going hiking. Ana loaned a backpack to Matt and then she grabbed some snacks.
+Question1: Did Matt grab some snacks?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Ana loan to Matt?
+(A)a backpack
+(B)the detergent
+Answer: A) A backpack
+
+Liz and Ana were throwing away the trash. Liz brought the garbage to Ana and then she left the apartment.
+Question1: Did Liz leave the apartment?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Liz and Ana doing?
+(A)throwing away the trash
+(B)cleaning up the apartment
+Answer: A) Throwing away
+
+Ana and Matt were playing basketball. Ana got the ball from Matt and then he ran down the court.
+Question1: Did Ana run down the court?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Ana and Matt doing?
+(A)playing basketball
+(B)watching TV
+Answer: A) Playing basketball
+
+Will and Ana were doing their laundry at the laundromat. Will threw the detergent to Ana and then he folded his clothes.
+Question1: Did Ana fold her clothes?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Will throw to Ana?
+(A)the detergent
+(B)the rake
+Answer: A) The detergent
+
+Ana and Liz were getting ready to go shopping. Ana brought the coupons to Liz and then she wrote a shopping list.
+Question1: Did Liz write a shopping list?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Ana bring to Liz?
+(A)the coupons
+(B)the popcorn
+Answer: A) The coupons
+
+Matt and Liz were cleaning up after a dinner party. Matt gave a stack of dishes to Liz and then he swept the floor.
+Question1: Did Liz sweep the floor?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Matt give to Liz?
+(A)a stack of dishes
+(B)some wine
+Answer: A) A stack of
+
+Will and Ana were planning a party. Will snatched the guest list from Ana and then she refused to help any more.
+Question1: Did Will refuse to help anymore?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What were Will and Ana doing?
+(A)planning a party
+(B)dividing up the rent for the apartment 
+Answer: A) Planning a party
+
+Ana and Liz were cleaning up the apartment. Ana retrieved the broom from Liz and then she tidied up the kitchen.
+Question1: Did Ana tidy up the kitchen?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Ana and Liz doing?
+(A)cleaning up the apartment
+(B)texting in class
+Answer: A) Cleaning up
+
+Liz and Matt were raking leaves outside. Liz passed the rake to Matt and then she jumped in the pile of leaves.
+Question1: Did Liz jump in the pile of leaves?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Liz pass to Matt?
+(A)the rake
+(B)the skates
+Answer: A) The rake
+
+Ana and Will were going to a concert. Ana accepted a ride from Will and then he paid for parking too.
+Question1: Did Will pay for parking too?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Ana accept from Will?
+(A)a ride
+(B)the instructions
+Answer: A) A ride
+
+Liz and Ana were attending a concert. Liz received the tickets from Ana and then she waited in line.
+Question1: Did Ana wait in line?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Liz receive from Ana?
+(A)the tickets
+(B)the gift
+Answer: A) The tickets
+
+Liz and Will were cleaning the car. Liz passed the soap to Will and then she turned on the hose.
+Question1: Did Liz turn on the hose?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What were Liz and Will doing?
+(A)cleaning the car
+(B)walking the dog
+Answer: A) Cleaning the
+
+Will and Ana were fishing in the lake. Will retrieved the fishing pole from Ana and then she got a drink from the cooler.
+Question1: Did Will get a drink from the cooler?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Will retrieve from Ana?
+(A)the fishing pole
+(B)a note
+Answer: A) The fishing pole
+
+Matt and Will were playing arcade games. Matt accepted the quarters from Will and then he chose a game.
+Question1: Did Will choose a game?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Matt accept from Will?
+(A)the quarters
+(B)the notebook
+Answer: A) The quarters
+
+Matt and Ana were participating in a gift exchange. Matt accepted the gift from Ana and then she smiled.
+Question1: Did Ana smile?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Matt accept from Ana?
+(A)the gift
+(B)the fishing pole
+Answer: A) The gift
+
+Will and Matt were watching a movie. Will passed the popcorn to Matt and then he drank some soda.
+Question1: Did Matt drink some soda?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: What did Will pass to Matt?
+(A)the popcorn
+(B)a pencil
+Answer: A) The popcorn
+
+Liz and Will were working on a class paper together. Liz sent an article to Will and then she worked on an outline.
+Question1: Did Will work on an outline?
+(A)Yes
+(B)No
+Answer: B) No
+Question2: What did Liz send to Will?
+(A)an article
+(B)a backpack
+Answer: A) An article
+
+Matt and Will were at a flower shop. Matt handed the flowers to Will and then he walked up to the counter.
+Question1: Did Matt walk up to the counter?
+(A)Yes
+(B)No
+Answer: A) Yes
+Question2: Where were Matt and Will at?
+(A)a flower shop
+(B)the gym
+Answer: A) A flower shop
+
