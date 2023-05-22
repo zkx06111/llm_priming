@@ -1,7 +1,7 @@
 **LLM Priming**
 ====================================
 
-The code and results for *Replicate and Compare with Humans: LLMs Represent Partial Semantic Knowledge in Pronoun Interpretation*.
+The results for *Replicate and Compare with Humans: LLMs Represent Partial Semantic Knowledge in Pronoun Interpretation*.
 
 The data for running the experiments are in `priming_data/`.
 
