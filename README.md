@@ -15,7 +15,7 @@ To cite our paper, please use the following bibtex
 
 ```
 @inproceedings{lam-etal-2023-replicate,
-    title = "Replicate and Compare with Humans: LLMs Represent Partial Semantic Knowledge in Pronoun Interpretation",
+    title = "*Large Language Models Are Partially Primed in Pronoun Interpretation",
     author = "Lam, Suet-Ying  and
       Zeng, Qingcheng  and
       Zhang, Kexun  and
