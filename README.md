@@ -1,7 +1,7 @@
 **LLM Priming**
 ====================================
 
-The results for *Replicate and Compare with Humans: LLMs Represent Partial Semantic Knowledge in Pronoun Interpretation*.
+The results for [*Large Language Models Are Partially Primed in Pronoun Interpretation*](https://arxiv.org/abs/2305.16917).
 
 The data for running the experiments are in `priming_data/`.
 
